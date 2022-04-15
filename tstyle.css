@@ -90,6 +90,10 @@ body{
     .ipt{
         flex-direction: column;
     }
+    body{
+overflow:auto;
+}
+
     .ipt input{
         width: 100%;
         margin-bottom: 20px;
